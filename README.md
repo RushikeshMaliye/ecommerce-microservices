@@ -10,7 +10,7 @@ This system is composed of the following independent microservices:
 
 * **User Service**
   Handles user registration, authentication, and profile management
-  🔗 https://github.com/RushikeshMaliye/product-service
+  🔗 https://github.com/RushikeshMaliye/user-service
 
 * **Product Service**
   Manages product catalog, pricing, and inventory
